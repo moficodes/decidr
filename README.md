@@ -1,4 +1,7 @@
 # Decidr
+## Try it out!
+Live demo is available here: [https://decidr-598464211339.us-west2.run.app](https://decidr-598464211339.us-west2.run.app)
+
 
 A strategic decision engine that forces resolution within a strict 10-minute constraint.
 
