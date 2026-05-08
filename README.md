@@ -5,6 +5,10 @@ Live demo is available here: [https://decidr-598464211339.us-west2.run.app](http
 
 A strategic decision engine that forces resolution within a strict 10-minute constraint.
 
+
+## Demo
+![Dashboard Demo](assets/demo.png)
+
 ## Productivity Value
 Analysis paralysis is a major productivity killer. Decidr combats this by providing a structured framework for evaluating options under a hard time limit. By forcing the pre-frontal cortex to prioritize within 10 minutes, it reduces fear-driven hesitation and provides a verifiable log of past decisions to improve future judgment.
 
